@@ -3,13 +3,15 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "dev": "nodemon src/index.js"
+    "dev": "nodemon src/index.js",
+    "test": "jest"
   },
   "license": "MIT",
   "dependencies": {
     "celebrate": "^12.1.0",
     "cors": "^2.8.5",
     "express": "^4.17.1",
+    "jest": "^25.4.0",
     "knex": "^0.21.0",
     "sqlite3": "^4.1.1"
   },
