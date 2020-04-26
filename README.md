@@ -19,7 +19,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [Node.js](https://nodejs.org/en/)
 - [React](https://reactjs.org/)
 - [React Native](https://reactnative.dev/)
-- [PostgreSQL](https://www.postgresql.org/)
+- [SQLite](https://www.sqlite.org/index.html)
 - [Express](https://github.com/expressjs/express)
 - [Expo](https://expo.io/)
 - [Knex](http://knexjs.org/)
